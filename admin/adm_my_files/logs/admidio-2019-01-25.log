@@ -1,0 +1,2 @@
+[2019-01-25 00:05:42.653323] Admidio.ERROR: L10N: Could not found text-id! {"textId":"profile_photo_up_help"} {"file":"/home/cla2rj7u5q95/public_html/jaibheemtrust.com/admin/adm_program/system/classes/Language.php","line":119,"class":"Language","function":"get"}
+[2019-01-25 11:34:32.678546] Admidio.WARNING: AUTHENTICATION: User is not activated! {"username":"jaibheem2202"} {"file":"/home/cla2rj7u5q95/public_html/jaibheemtrust.com/admin/adm_program/system/classes/User.php","line":567,"class":"User","function":"checkLogin"}
